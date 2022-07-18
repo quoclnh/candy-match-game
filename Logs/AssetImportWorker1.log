@@ -177,3 +177,105 @@ Received Import Request.
   path: Assets/Match 3 Starter/Prefabs/Managers and UI/GUIManagerCanvas.prefab
   artifactKey: Guid(6a2e44e682f3ea5469046c0ccfa27945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Match 3 Starter/Prefabs/Managers and UI/GUIManagerCanvas.prefab using Guid(6a2e44e682f3ea5469046c0ccfa27945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '217a67611e64899cca3cb7d29ae2ff51') in 0.020516 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003195 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.937 seconds
+Domain Reload Profiling:
+	ReloadAssembly (938ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (702ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (205ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (326ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (212ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1674 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (25.4 KB). Loaded Objects now: 2148.
+Memory consumption went from 71.8 MB to 71.8 MB.
+Total: 3.355400 ms (FindLiveObjects: 0.141900 ms CreateObjectMapping: 0.038900 ms MarkObjects: 3.129100 ms  DeleteObjects: 0.044100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1526.955819 seconds.
+  path: Assets/Match 3 Starter/Sprites/Characters/characters_0002.png
+  artifactKey: Guid(fbdc2dd4941e61244980c24b6aaea0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Match 3 Starter/Sprites/Characters/characters_0002.png using Guid(fbdc2dd4941e61244980c24b6aaea0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbb8b2926759440b5fc6c4ea889df52') in 0.123733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Match 3 Starter/Sprites/Characters/characters_0004.png
+  artifactKey: Guid(e61a9cacb6991554e9ba8f0f19381eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Match 3 Starter/Sprites/Characters/characters_0004.png using Guid(e61a9cacb6991554e9ba8f0f19381eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b63232a60f1dc46cf02e28a3a87fed') in 0.047071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Match 3 Starter/Sprites/Characters/characters_0006.png
+  artifactKey: Guid(dca7a45bef5bffa4395181b03e04d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Match 3 Starter/Sprites/Characters/characters_0006.png using Guid(dca7a45bef5bffa4395181b03e04d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '283b63c13d0cbb6b0cf840812dc5f4a3') in 0.060024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.662304 seconds.
+  path: Assets/Match 3 Starter/Sprites/UI/button_down.png
+  artifactKey: Guid(5b2f73de82189964fb6f31b5c7b62d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Match 3 Starter/Sprites/UI/button_down.png using Guid(5b2f73de82189964fb6f31b5c7b62d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8bd505e1b98bfa5e53ecb109f3dea2') in 0.025418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Match 3 Starter/Sprites/UI/inGame_counter.png
+  artifactKey: Guid(e16c2fef59001794fac394c559efe8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Match 3 Starter/Sprites/UI/inGame_counter.png using Guid(e16c2fef59001794fac394c559efe8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d59e9b984fb433a5010282008f14611') in 0.019640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Match 3 Starter/Sprites/UI/button_up.png
+  artifactKey: Guid(f5e2daf84d4c063469ded81b9108fad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Match 3 Starter/Sprites/UI/button_up.png using Guid(f5e2daf84d4c063469ded81b9108fad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eb54bd70a307c8243d97e3022bdf0e2') in 0.020143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Match 3 Starter/Sprites/UI/inGameCounter_bar.png
+  artifactKey: Guid(481dfd9654651104d9f20d739342e00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Match 3 Starter/Sprites/UI/inGameCounter_bar.png using Guid(481dfd9654651104d9f20d739342e00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c26d09872bc6528e6f9c48012d91db') in 0.022354 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
