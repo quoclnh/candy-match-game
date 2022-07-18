@@ -178,3 +178,169 @@ Received Import Request.
   path: Assets/Match 3 Starter/Scenes/Leaderboard.unity
   artifactKey: Guid(f1288b79addc75e4187cfc6b14ea06b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Match 3 Starter/Scenes/Leaderboard.unity using Guid(f1288b79addc75e4187cfc6b14ea06b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3adc7861af4fbebb1485a0ad311abd') in 0.006418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 282.694653 seconds.
+  path: Assets/Match 3 Starter/Animations/GameOverPanel.controller
+  artifactKey: Guid(d2e521b0f9f2e964ea6f647e7d830d34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Animations/GameOverPanel.controller using Guid(d2e521b0f9f2e964ea6f647e7d830d34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ca05c90b8a952befc9006e70c7b74c12') in 0.159896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Match 3 Starter/Sprites/UI/TitleScreen.png
+  artifactKey: Guid(d971ad3c3de589a46907a352d4bfca2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Sprites/UI/TitleScreen.png using Guid(d971ad3c3de589a46907a352d4bfca2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ec4edd45d57c6e131ddd139a2f640b03') in 0.065580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Match 3 Starter/Audio/SFX/Swap.ogg
+  artifactKey: Guid(03aa09522745ddc4fa23a5fe46484274) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Audio/SFX/Swap.ogg using Guid(03aa09522745ddc4fa23a5fe46484274) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7805d66ef91fdb214944316c2a124b75') in 0.102165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Match 3 Starter/Sprites/Characters/characters_0007.png
+  artifactKey: Guid(6e84ec6047673d440aa377e4980bfea8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Sprites/Characters/characters_0007.png using Guid(6e84ec6047673d440aa377e4980bfea8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b1c29210339bfea90a3f1b30a788f83d') in 0.028317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Match 3 Starter/Scripts/Managers/GUIManager.cs
+  artifactKey: Guid(f194c03b331e8294d85f6654fa6a5c94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Scripts/Managers/GUIManager.cs using Guid(f194c03b331e8294d85f6654fa6a5c94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd7f3c8188e89638b2f830a3f53596d20') in 0.013134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Match 3 Starter/Sprites/UI/button_up.png
+  artifactKey: Guid(f5e2daf84d4c063469ded81b9108fad4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Sprites/UI/button_up.png using Guid(f5e2daf84d4c063469ded81b9108fad4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fdb3a9219e0404ad3f94e441c94d7563') in 0.022164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Match 3 Starter/Scenes/Game.unity
+  artifactKey: Guid(13c4b9a25e714484db0951847e444521) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Scenes/Game.unity using Guid(13c4b9a25e714484db0951847e444521) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a96e8c832e0a46d8a1d8098c958ccc04') in 0.009511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Match 3 Starter/Prefabs/Managers and UI/BoardManager.prefab
+  artifactKey: Guid(af7a25f9117a27345bd4fc983e1bf621) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Prefabs/Managers and UI/BoardManager.prefab using Guid(af7a25f9117a27345bd4fc983e1bf621) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '66b22ba83fca54bff3821495d6f8733c') in 0.028334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Match 3 Starter/Prefabs/Tile.prefab
+  artifactKey: Guid(6417c2a8214b7ab45b35ac5e9e62c2cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Prefabs/Tile.prefab using Guid(6417c2a8214b7ab45b35ac5e9e62c2cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b2f8312cf477ff3609cd3c65f5a20ebb') in 0.018496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Match 3 Starter/Prefabs/Managers and UI/GameManager.prefab
+  artifactKey: Guid(eb9c3aa0fa5cc314ab86ca0bcc68ad01) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Prefabs/Managers and UI/GameManager.prefab using Guid(eb9c3aa0fa5cc314ab86ca0bcc68ad01) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4a54ea71397f026cc3765e149fbf514e') in 0.020821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Match 3 Starter/Scripts/Board and Grid/BoardManager.cs
+  artifactKey: Guid(a3e5bbfb8c13d8f479f8d00fcbc7884e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Scripts/Board and Grid/BoardManager.cs using Guid(a3e5bbfb8c13d8f479f8d00fcbc7884e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '845e98deee5e78bc1585e9a34ce80c60') in 0.009295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Match 3 Starter/Sprites/UI/button_down.png
+  artifactKey: Guid(5b2f73de82189964fb6f31b5c7b62d35) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Sprites/UI/button_down.png using Guid(5b2f73de82189964fb6f31b5c7b62d35) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '94f319be3a85cd516a635c24bda63ffe') in 0.020916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Match 3 Starter/Scenes/MenuSettings.lighting
+  artifactKey: Guid(2c7fb941ff61c104983dd1727130d673) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Scenes/MenuSettings.lighting using Guid(2c7fb941ff61c104983dd1727130d673) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) LightingSettings: switching bake backend from 1 to 0.
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0aba481209fd7e171db973e3030191db') in 0.019903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Match 3 Starter/Sprites/UI/inGame_counter.png
+  artifactKey: Guid(e16c2fef59001794fac394c559efe8c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Sprites/UI/inGame_counter.png using Guid(e16c2fef59001794fac394c559efe8c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c9ed6bdc9c4115b1b39ffd576071cc8b') in 0.021504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Match 3 Starter/Scripts/Effects/GUISizePingPong.cs
+  artifactKey: Guid(6444328334f798a4e822ba1e541e98b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Scripts/Effects/GUISizePingPong.cs using Guid(6444328334f798a4e822ba1e541e98b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '33b52c16b748facdde86ceb1c3c097f4') in 0.012210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Match 3 Starter/Scenes/Leaderboard.unity
+  artifactKey: Guid(f1288b79addc75e4187cfc6b14ea06b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Scenes/Leaderboard.unity using Guid(f1288b79addc75e4187cfc6b14ea06b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e14751c5caa52239b594471ba19c05d9') in 0.010393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Match 3 Starter/Sprites/Characters/characters_0002.png
+  artifactKey: Guid(fbdc2dd4941e61244980c24b6aaea0de) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Sprites/Characters/characters_0002.png using Guid(fbdc2dd4941e61244980c24b6aaea0de) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b7b9d450c27a2d8041a2acd1ac62f1bc') in 0.019807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Match 3 Starter/Scripts/Board and Grid/Tile.cs
+  artifactKey: Guid(f86f53e3a0b4ac048b452577bcabc93a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Scripts/Board and Grid/Tile.cs using Guid(f86f53e3a0b4ac048b452577bcabc93a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '66f38c2dfdbd8c9d45065caf153f2965') in 0.008009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Match 3 Starter/Fonts/HVD_Comic_Serif_Pro.otf
+  artifactKey: Guid(1466810ba7010594998a3428d52efaed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Fonts/HVD_Comic_Serif_Pro.otf using Guid(1466810ba7010594998a3428d52efaed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e4b3d99ff4ab192bcabb8661c0b41ece') in 0.028657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Match 3 Starter/Sprites/Characters/characters_0004.png
+  artifactKey: Guid(e61a9cacb6991554e9ba8f0f19381eda) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Sprites/Characters/characters_0004.png using Guid(e61a9cacb6991554e9ba8f0f19381eda) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bdb958cf483e61cd048aca1e032babd9') in 0.020223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Match 3 Starter/Prefabs/Managers and UI/SFXManager.prefab
+  artifactKey: Guid(21f51af2919c5ca42afa49762724faa9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Prefabs/Managers and UI/SFXManager.prefab using Guid(21f51af2919c5ca42afa49762724faa9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9e365ed4d04093fbc619f0e6d62bab67') in 0.017068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Match 3 Starter/Sprites/Characters/characters_0006.png
+  artifactKey: Guid(dca7a45bef5bffa4395181b03e04d081) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Sprites/Characters/characters_0006.png using Guid(dca7a45bef5bffa4395181b03e04d081) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e7099768120ad477ab77f80094d88502') in 0.016404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Match 3 Starter/Audio/Music/Hyperfun.ogg
+  artifactKey: Guid(ebac80d036915b54094138b7e7cd5922) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Match 3 Starter/Audio/Music/Hyperfun.ogg using Guid(ebac80d036915b54094138b7e7cd5922) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4a017ab73510402190270fdb1100d845') in 0.101556 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
