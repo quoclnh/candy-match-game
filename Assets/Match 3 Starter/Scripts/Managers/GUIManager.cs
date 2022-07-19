@@ -38,7 +38,7 @@ public class GUIManager : MonoBehaviour {
 
 	void Awake() {
 		instance = GetComponent<GUIManager>();
-		moveCounter = 30;
+		moveCounter = 10;
 	}
 
 	// Show the game over panel
