@@ -63,6 +63,7 @@
     <Compile Include="Assets\Match 3 Starter\Scripts\Effects\GUISizePingPong.cs" />
     <Compile Include="Assets\Match 3 Starter\Scripts\Back To Menu\ChangeScene.cs" />
     <Compile Include="Assets\Match 3 Starter\Scripts\Managers\GameManager.cs" />
+    <Compile Include="Assets\Match 3 Starter\Scripts\Managers\LeaderboardManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Match 3 Starter\Audio\Music\Attribution.txt" />

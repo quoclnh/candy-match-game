@@ -22,7 +22,10 @@
 
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Networking;
 using System.Collections;
+using System;
+using System.Globalization;
 
 public class GUIManager : MonoBehaviour {
 	public static GUIManager instance;
@@ -58,6 +61,12 @@ public class GUIManager : MonoBehaviour {
 		}
 
 		yourScoreTxt.text = score.ToString();
+
+		CultureInfo viVN = new CultureInfo("vi-VN");
+		string timestamp = DateTime.Now.ToString(viVN);
+
+		UnityWebRequest www = UnityWebRequest.Post("https://pruapihighscore.azurewebsites.net/Score?name=" + timestamp + "&score=" + score.ToString(), "");
+		www.SendWebRequest();
 	}
 
 	public int Score {
@@ -91,5 +100,4 @@ public class GUIManager : MonoBehaviour {
 		yield return new WaitForSeconds(.25f);
 		GameOver();
 	}
-
 }
