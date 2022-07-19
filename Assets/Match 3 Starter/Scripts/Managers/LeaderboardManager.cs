@@ -38,8 +38,7 @@ public class LeaderboardManager : MonoBehaviour {
 			StreamReader reader = new StreamReader(response.GetResponseStream());
 			string json = reader.ReadToEnd();
 			return JsonUtility.FromJson<Profile>(json);
-		} 
-		catch (Exception ex) {
+		} catch {
 			return new Profile("---", 0);
         }
 	}
@@ -47,7 +46,7 @@ public class LeaderboardManager : MonoBehaviour {
     void Start() {
 		Profile profile;
 
-		profile = getProfileByRank(0);
+        profile = getProfileByRank(0);
 		top1_name.text = profile.name;
 		scoreTxt1.text = profile.score.ToString();
 
